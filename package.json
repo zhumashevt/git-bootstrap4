@@ -15,7 +15,7 @@
     "@fortawesome/fontawesome-free": "^5.11.2",
     "slick-carousel": "1.8.1",
     "magnific-popup": "1.1.0",
-    "inputmask": "5.0.4-beta.21"
+    "inputmask": "next"
   },
   "devDependencies": {
     "browser-sync": "^2.26.3",
