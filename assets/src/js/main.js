@@ -21,6 +21,10 @@
 //= ../../../node_modules/magnific-popup/dist/jquery.magnific-popup.min.js
 //= ../../../node_modules/inputmask/dist/jquery.inputmask.min.js
 //= ../../../node_modules/@cmyee/pushy/js/pushy.min.js
+//= ../../../node_modules/owl.carousel/dist/owl.carousel.min.js
+//= ../../../node_modules/lazyload/lazyload.min.js
+//= ../../../node_modules/isotope-layout/dist/isotope.pkgd.min.js
+//= ../../../node_modules/wowjs/dist/wow.min.js
 
 // Импортируем другие js-файлы
 //= my.js
